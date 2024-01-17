@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Lab Assignment No. 4: Unsupervised Learning - Clustering</title>
-</head>
-
 <body>
 <h1>Lab Assignment No. 4: Unsupervised Learning - Clustering</h1>
 <h2>Objectives:</h2>
